@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\backendapi\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\recordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\wwwroot\\js\\site.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\wwwroot\\js\\site.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\wwwroot\\js\\test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\wwwroot\\js\\test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\pages\\records.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\pages\\records.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\backendapi\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596D1121-0CFF-45B0-AE5C-9D2072319497}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\pages\\records.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\pages\\records.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\frontendapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\frontendapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\wwwroot\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\wwwroot\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|c:\\users\\jjivd\\source\\repos\\aa_uzdevums\\frontendapp\\wwwroot\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E736DBC-47F2-4025-B554-0FF0C980DCF0}|FrontendApp\\FrontendApp.csproj|solutionrelative:frontendapp\\wwwroot\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackendApi",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\BackendApi.csproj",
+              "RelativeDocumentMoniker": "BackendApi\\BackendApi.csproj",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\BackendApi.csproj",
+              "RelativeToolTip": "BackendApi\\BackendApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T13:53:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Program.cs",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\Program.cs",
+              "RelativeToolTip": "BackendApi\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:49:35.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Models\\Record.cs",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\Models\\Record.cs",
+              "RelativeToolTip": "BackendApi\\Models\\Record.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:41:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Records.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Pages\\Records.cshtml",
+              "RelativeDocumentMoniker": "FrontendApp\\Pages\\Records.cshtml",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Pages\\Records.cshtml",
+              "RelativeToolTip": "FrontendApp\\Pages\\Records.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAqwGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T14:47:44.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Records.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Pages\\Records.cshtml.cs",
+              "RelativeDocumentMoniker": "FrontendApp\\Pages\\Records.cshtml.cs",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Pages\\Records.cshtml.cs",
+              "RelativeToolTip": "FrontendApp\\Pages\\Records.cshtml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T16:19:06.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FrontendApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FrontendApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAALsAAAAAAAAAAAAqwNoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-04T15:19:58.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Program.cs",
+              "RelativeDocumentMoniker": "FrontendApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Program.cs",
+              "RelativeToolTip": "FrontendApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:26:36.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontendApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontendApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T14:14:30.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\tsconfig.json",
+              "RelativeDocumentMoniker": "FrontendApp\\wwwroot\\tsconfig.json",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\tsconfig.json",
+              "RelativeToolTip": "FrontendApp\\wwwroot\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T14:19:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\package.json",
+              "RelativeDocumentMoniker": "FrontendApp\\wwwroot\\package.json",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\package.json",
+              "RelativeToolTip": "FrontendApp\\wwwroot\\package.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T14:13:42.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrontendApp.csproj",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\FrontendApp.csproj",
+              "RelativeDocumentMoniker": "FrontendApp\\FrontendApp.csproj",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\FrontendApp.csproj",
+              "RelativeToolTip": "FrontendApp\\FrontendApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T14:02:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordController.cs",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\Controllers\\RecordController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\RecordController.cs",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\BackendApi\\Controllers\\RecordController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\RecordController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:32:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FrontendApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FrontendApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T12:41:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FrontendApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FrontendApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T17:24:15.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.js",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\js\\test.js",
+              "RelativeDocumentMoniker": "FrontendApp\\wwwroot\\js\\test.js",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\js\\test.js",
+              "RelativeToolTip": "FrontendApp\\wwwroot\\js\\test.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-05T18:06:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.ts",
+              "DocumentMoniker": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\js\\site.ts",
+              "RelativeDocumentMoniker": "FrontendApp\\wwwroot\\js\\site.ts",
+              "ToolTip": "C:\\Users\\jjivd\\source\\repos\\AA_uzdevums\\FrontendApp\\wwwroot\\js\\site.ts",
+              "RelativeToolTip": "FrontendApp\\wwwroot\\js\\site.ts",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAqwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-04T13:03:48.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

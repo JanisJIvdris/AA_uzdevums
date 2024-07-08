@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendApi</name>
+    </assembly>
+    <members>
+        <member name="M:BackendApi.Controllers.RecordsController.GetRecords">
+            <summary>
+            Retrieves all records.
+            </summary>
+            <returns>All records in the database.</returns>
+        </member>
+        <member name="M:BackendApi.Controllers.RecordsController.GetRecord(System.Int32)">
+            <summary>
+            Retrieves a record by ID.
+            </summary>
+            <param name="id">The ID of the record to retrieve.</param>
+            <returns>The record with the specified ID.</returns>
+        </member>
+        <member name="M:BackendApi.Controllers.RecordsController.PostRecord(BackendApi.Models.Record)">
+            <summary>
+            Adds a new record.
+            </summary>
+            <param name="record">The record to add.</param>
+            <returns>The added record.</returns>
+        </member>
+        <member name="M:BackendApi.Controllers.RecordsController.PutRecord(System.Int32,BackendApi.Models.Record)">
+            <summary>
+            Updates an existing record.
+            </summary>
+            <param name="id">The ID of the record to update.</param>
+            <param name="record">The updated record data.</param>
+            <returns>No content.</returns>
+        </member>
+        <member name="M:BackendApi.Controllers.RecordsController.DeleteRecord(System.Int32)">
+            <summary>
+            Deletes a record by ID.
+            </summary>
+            <param name="id">The ID of the record to delete.</param>
+            <returns>No content.</returns>
+        </member>
+        <member name="T:BackendApi.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:BackendApi.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BackendApi.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BackendApi.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
