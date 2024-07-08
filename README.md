@@ -19,7 +19,7 @@ Visiem API galapunktiem ir jābūt pieejamiem ar Swagger ar nelielu aprakstu par
 
 ## Apraksts
 
-Prototips izstrādāts izmantojot .NET 8 priekš backend un HTML/Javascript priekš frontend. Projekts izpilda uzdevumā prasītos punktus. Tiek izveidota tabula kur iespējams veikt CRUD darbības un tabula ir formatēta atbilstoši prasībām. Ņemot vērā, ka netika norādīti konkrēti dati, ko tabulā vajadzetu glabāt, izvēlējos tabulu veidot pēc vienkārša formāta ID/Nosaukums/Apraksts/Pievienošanas datums. ID lauks ir automātiski inkrementējošs, attiecīgi, ja ieraksts tiek dzēsts, ID netiek atbrīvots un tiek skaitīts uz priekšu.
+Prototips izstrādāts izmantojot .NET 8 priekš backend un HTML/Javascript priekš frontend. Projekts izpilda uzdevumā prasītos punktus. Tiek izveidota tabula kur iespējams veikt CRUD darbības un tabula ir formatēta atbilstoši prasībām. Ņemot vērā, ka netika norādīti konkrēti dati, ko tabulā vajadzetu glabāt, izvēlējos tabulu veidot pēc vienkārša formāta ID/Nosaukums/Apraksts/Pievienošanas datums. ID lauks ir automātiski inkrementējošs, attiecīgi, ja ieraksts tiek dzēsts, ID netiek atbrīvots un tiek skaitīts uz priekšu. Papildus tam, tiek izmantots Typescript priekš Javascript faila ģenerēšanas, kas varbūt nav nepieciešams šādā, mazā projektā, taču lielākos projektos tas ir ļoti noderīgi.
 
 ## Frontend
 
