@@ -19,5 +19,3 @@ app.UseRouting();
 app.UseAuthorization();
 app.MapRazorPages();
 app.Run();
-
-//need to add way to save actions, add bit more ui to table, also need to clean up code
